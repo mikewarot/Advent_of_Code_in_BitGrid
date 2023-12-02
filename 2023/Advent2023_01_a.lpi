@@ -8,7 +8,6 @@
         <MainUnitHasCreateFormStatements Value="False"/>
         <MainUnitHasTitleStatement Value="False"/>
         <MainUnitHasScaledStatement Value="False"/>
-        <UseDefaultCompilerOptions Value="True"/>
       </Flags>
       <SessionStorage Value="InProjectDir"/>
       <Title Value="Advent2023_01_a"/>
@@ -45,7 +44,7 @@
     <Linking>
       <Debugging>
         <GenerateDebugInfo Value="False"/>
-        <RunWithoutDebug Value="True"/>
+        <DebugInfoType Value="dsDwarf2Set"/>
       </Debugging>
     </Linking>
   </CompilerOptions>
